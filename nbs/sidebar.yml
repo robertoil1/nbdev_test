@@ -1,0 +1,10 @@
+website:
+  sidebar:
+    contents:
+      - index.qmd
+      - 00_core.ipynb
+      - section: snake-game
+        contents:
+          - snake-game/snake_game.qmd
+          - snake-game/snake_game_explicacion.qmd
+          - snake-game/snake_game_gestos_explicacion.qmd
